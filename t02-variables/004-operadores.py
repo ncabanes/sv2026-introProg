@@ -1,0 +1,7 @@
+print("25 más 6 es", 25+6)
+print("25 menos 6 es", 25-6)
+print("25 por 6 es", 25*6)
+print("25 entre 6 es", 25/6)
+print("25 entre 6 sin decimales", 25 // 6)
+print("25 elevado a 6 es", 25**6)
+print("El resto de 25 entre 6 es", 25%6)
