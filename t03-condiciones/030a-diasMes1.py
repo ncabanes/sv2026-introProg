@@ -4,7 +4,7 @@
 
 # Versión 1, enumerando todos los casos (mejorable)
 
-n = int(input("dime un numero del mes")
+n = int(input("dime un numero del mes"))
 if n==1:
 	print("Tiene 31 dias")
 elif n==2:
@@ -30,4 +30,4 @@ elif n==11:
 elif n==12:
 	print("Tiene 31 dias")
 else:
-	print("te has equivocado")
+	print("No es un número de mes válido")
