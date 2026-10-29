@@ -1,0 +1,15 @@
+# Repaso de bucles
+
+# Muestra los números del 1 al 100, excepto el 13
+# En vez del 50, escribe el texto "Cincuenta"
+
+# Versión 2: pass
+
+for i in range(1, 101):
+		
+	if i == 13:	
+		pass
+	elif i == 50:
+		print("Cincuenta", end=" ")
+	else:
+		print(i, end=" ")
